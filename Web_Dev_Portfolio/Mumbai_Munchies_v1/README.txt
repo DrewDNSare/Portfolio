@@ -7,3 +7,11 @@ While this app does not yet have a permanent database; meaning that changes made
 There are also further plans to implement a full-fledged database via SQLite or similar solution, as well utilize Object Oriented Programming to show off skills progression. 
 
 Errors are handled through print statements and break points built into VS Code. I have plans to implement good error handling practices with try , except in future iterations of this project
+
+You can execute the App via the command : 
+
+python ./Mumbai_Munchies_v1.py 
+
+or if you have python3 :
+
+python3 ./Mumbai_Munchies_v1.py
